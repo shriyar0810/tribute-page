@@ -1,0 +1,6 @@
+{
+  "name": "Dr. A.P.J. Abdul Kalam – The Missile Man of India",
+  "description": "A tribute page dedicated to Dr. A.P.J. Abdul Kalam, Indian aerospace scientist and 11th President of India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
